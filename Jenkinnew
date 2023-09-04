@@ -11,7 +11,7 @@ pipeline {
                 echo 'Peter listen to me, you idiot!'
             }
         }
-        stage('Deploy1') {
+        stage('Deploy1new') {
             steps {
                 echo 'mj misses you'
             }
